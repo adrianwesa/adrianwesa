@@ -1,4 +1,4 @@
-### Hallo Kawan, Aku adrianwesa 👋
+
 
 ![adrianwesa](img/github-header-banner.png)
 
