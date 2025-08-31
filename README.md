@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallo Kawan, Aku adrianwesa 👋
 
 <!--
 **adrianwesa/adrianwesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@DesignGraphic**
+- 🌱 I’m currently learning Learning On **Tutorial Adobe Photoshop** 😶‍🌫️
+
+![Repeat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdsdTkycmwyNjU4dm80OWwwd2t0ejN5eGdkM3Q1NnI3eXRscGRmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/miKYsLNxQMeOnSaflD/giphy.gif)
